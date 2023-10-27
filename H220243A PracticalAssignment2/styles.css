@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  p {
+    margin-bottom: 10px;
+  }
+  .header {
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+
+  .section {
+    margin-bottom: 30px;
+  }
+
+  .section h2 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .section p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .contact {
+    display: flex;
+    align-items: center;
+  }
+
+  .contact i {
+    margin-right: 10px;
+  }
